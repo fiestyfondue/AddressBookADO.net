@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "AddressBookSQL", "AddressBookSQL\AddressBookSQL.ssmssqlproj", "{B58EC44E-AAC4-4E49-8E01-A7871651DF05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B58EC44E-AAC4-4E49-8E01-A7871651DF05}.Default|Default.ActiveCfg = Default
+		{1E00A9D3-C10E-433C-B4F0-08A3133627F0}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B312D07-C91C-4D9A-B423-147169E53873}
+	EndGlobalSection
+EndGlobal
